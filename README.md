@@ -1,8 +1,6 @@
-
-
 <div align="center">
 
-# Hey, I'm Dev👋
+# Hey, I'm Dev 👋
 
 ### B.Tech CSE Student • AI & Cybersecurity Builder • Open Source Learner
 
@@ -73,7 +71,7 @@ The idea is to combine **learning + building + feedback** in one ecosystem.
 
 ---
 
-### ⚛️ Quantum Mathematics
+### ⚛️ Quantum Mathematics Research
 
 Exploring the idea of a Python-based mathematics library focused on
 quantum computing concepts for:
@@ -96,6 +94,49 @@ Built **AgentGuard** with my team **Maverick Coders**.
 
 Our team finished **#1**, making us the only team from our college
 to finish in the top 3.
+
+---
+
+## 💻 Competitive Programming & Data Science
+
+### Competitive Programming
+
+<p>
+  <a href="https://www.codechef.com/users/devnet09">
+    <img src="https://skillicons.dev/icons?i=codechef" />
+  </a>
+  <a href="https://leetcode.com/u/Devmyre/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/devmyre">
+    <img src="https://skillicons.dev/icons?i=geeksforgeeks" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/cheekydev">
+    <img src="https://skillicons.dev/icons?i=hackerrank" />
+  </a>
+</p>
+
+**CodeChef:** 1999 Rating  
+**Username:** [devnet09](https://www.codechef.com/users/devnet09)
+
+**LeetCode:** [Devmyre](https://leetcode.com/u/Devmyre/)
+
+**GeeksforGeeks:** [Devmyre](https://www.geeksforgeeks.org/profile/devmyre)
+
+**HackerRank:** [cheekydev](https://www.hackerrank.com/profile/cheekydev)
+
+### Data Science
+
+**Kaggle:** [Devmyre](https://www.kaggle.com/devilbornfire)
+
+
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+**Kaggle:** Coming Soon 🚧
 
 ---
 
