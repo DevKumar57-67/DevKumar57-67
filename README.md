@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm Dev Kumar 👋
+# Hey, I'm Dev👋
 
 ### B.Tech CSE Student • AI & Cybersecurity Builder • Open Source Learner
 
